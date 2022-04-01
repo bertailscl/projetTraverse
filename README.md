@@ -6,7 +6,6 @@ Contient le Projet de Traverse.
 ## Dépendances
 
  - Librairie SDL2
- - Langage C (win : mingw)
 
 ## Compilation :
 
